@@ -1,0 +1,5 @@
+{
+  "name": "Copy5",
+  "description": "An application that allows users to generate videos from audio input by combining stock footage and AI-generated video or images. Users can upload an audio file, which is transcribed and segmented. For each segment, users can generate or fetch media to build a video sequence.",
+  "requestFramePermissions": []
+}
